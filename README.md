@@ -1,7 +1,7 @@
 <h1 align="left">💫 Hi, I'm Riddhima</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=21&duration=4000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Blending+logic+with+creativity.;Code.+Design.+Impact." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Blending+logic+with+creativity.;Code.+Design.+Impact." alt="Animated Quote" />
 </p>
 
 
